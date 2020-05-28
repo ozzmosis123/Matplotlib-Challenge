@@ -8,7 +8,7 @@ The tumor volume was lower when the weight of the mouse was less as is shown in 
 
 Capomulin and ramicane had the lowest tumor volume averages as is shown in the box plots.
 
-Capmulin and Ramicane had the most mice do their regimen. 
+Capmulin and Ramicane had the most mice on their regimen. 
 
 The male and female mouse distribution was very equal. 
 
