@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 
-Python Pandas and Matplotlib modules are used to create new data and visualize results using various bar charts, scatter plots, and pie charts. 
+Python Pandas and Matplotlib modules are used to create new data and visualize results using various bar charts, scatter plots, and pie charts. Certain charts are duplicated to demonstrate ability to visualize data with both Pandas and PyPlot from Matplotlib. 
 
 RESULTS
 
